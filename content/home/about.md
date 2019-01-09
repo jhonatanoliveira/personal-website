@@ -40,4 +40,4 @@ Ph.D. student in Computer Science researching probabilistic graphical models and
 Extensive programming experience with Python, C++, and Java, as well as some experience with Matlab and OCaml.
 Professional web development experience in javascript (Node.js, Angular, Meteor.js), PHP (CakePHP, Zend), Python (Django, Flask), and Java (Struts2), including mobile development with Cordova and NativeScript / React Native.
 
-For more details, please, [see my resume](files/resume_jhonatan_oliveira.pdf).
+Please, [see my resume](files/resume_jhonatan_oliveira.pdf) for more details.
