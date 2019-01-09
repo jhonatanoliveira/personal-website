@@ -21,22 +21,63 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
+# Technical Knowledge
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  icon = "user-graduate "
+  icon_pack = "fas"
+  name = "Research"
+  #description = "    "
+
+[[feature]]
+  icon = "laptop"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  #description = "    "
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Bayesian Statistics"
+  #description = "    "
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "code"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Web Development"
+  #description = "    "
+
+# Programming Languages
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  #description = "    "
+
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  #description = "    "
+
+[[feature]]
+  icon = "plus-circle"
+  icon_pack = "fas"
+  name = "C++"
+  #description = "    "
+
+[[feature]]
+  icon = "js"
+  icon_pack = "fab"
+  name = "JavaScript"
+  #description = "    "
+
+
+# Funny
+[[feature]]
+  icon = "coffee"
+  icon_pack = "fas"
+  name = "Coffee"
+  #description = "    "
+  
 
 +++

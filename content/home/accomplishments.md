@@ -20,27 +20,59 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
+  title = "Convolutional Neural Networks"
   organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/MX965WE5BCPA"
+  date_start = "2017-12-22"
+  #date_end = "2017-12-21"
+  description = "deeplearning.ai"
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
-  
+  title = "Structuring Machine Learning Projects"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/CY7FH4WP37Z7"
+  date_start = "2017-10-26"
+  #date_end = "2017-12-21"
+  description = "deeplearning.ai"
+
 [[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/4DPFU2SJUGFH"
+  date_start = "2017-10-03"
+  #date_end = "2017-12-21"
+  description = "deeplearning.ai"
+
+[[item]]
+  title = "Neural Networks and Deep Learning"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/2Q8977CRUM3D"
+  date_start = "2017-09-10"
+  #date_end = "2017-12-21"
+  description = "deeplearning.ai"
+
+[[item]]
+  title = "Probabilistic Graphical Models 1: Representation"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/TM7KHT24EBQV"
+  date_start = "2017-05-25"
+  #date_end = "2017-12-21"
+  description = "Stanford University"
+
+[[item]]
+  title = "Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)"
+  organization = "Coursera"
+  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/R4BWE5XK593G"
+  date_start = "2016-08-01"
+  #date_end = "2017-12-21"
+  description = "Hebrew University of Jerusalem"
+
+[[item]]
+  title = "Machine Learning"
+  organization = "Coursera"
+  certificate_url = "/files/Coursera_Certificate_v1-972224147177.pdf"
+  date_start = "2014-06-04"
+  #date_end = "2017-12-21"
+  description = "Stanford University"
 
 +++
