@@ -268,7 +268,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = "www.linkedin.com/in/jhonatanoliveira08"
+    link = "https://www.linkedin.com/in/jhonatanoliveira08"
 
   [[params.social]]
     icon = "github"
@@ -285,7 +285,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "/files/resume_jhonatan_oliveira.pdf"
+    link = "/files/my_resume.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -330,12 +330,6 @@ enableGitInfo = false
   url = "#contact"
   weight = 7
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "Resume"
-#    url = "files/resume_jhonatan_oliveira.pdf"
-#    weight = 7
 
 # Search.
 [params.search]
