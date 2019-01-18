@@ -75,4 +75,12 @@ date_format = "Jan 2006"
   #date_end = "2017-12-21"
   description = "Stanford University"
 
+[[item]]
+  title = "Data Mining with Weka"
+  organization = "University of Waikato"
+  certificate_url = "/files/mooc-certificate-dmww-2014 235.pdf"
+  date_start = "2014-04-16"
+  #date_end = "2017-12-21"
+  description = "Department of Computer Science"
+
 +++
