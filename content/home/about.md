@@ -19,7 +19,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "University of Regina"
-  year = "2019 (expected)"
+  year = 2019
 
 [[education.courses]]
   course = "MSc in Computer Science"
@@ -35,8 +35,6 @@ weight = 1
 
 # About
 
-A third-year Ph.D. student in Computer Science researching probabilistic graphical models and generative deep learning models. Several academic publications including a [recent paper](http://www.cs.uregina.ca/~butz/publications/aaai19.pdf) at the top tier conference **AAAI 2019**. Research projects involving theoretical development and implementation of machine learning models, including Sum-Product networks, generative adversarial networks (GANs), Bayesian networks, and Markov networks. Bachelor in Electrical Engineering with experience in robotics, parallel and numerical programming, and general artificial intelligence algorithms.
+I am a Brazilian who, in December 2019, completed all degree requirements for my Ph.D. in Artificial Intelligence (AI) at the University of Regina in Canada. My graduate research focused on probabilistic graphical models such as Bayesian networks (BNs) and deep learning models, including sum-product networks (SPNs). I have been active in research since 2013. I have published 25 peer-reviewed papers, including one paper at AAAI-2019. The interest in this paper led to a formal invitation to visit the University of Cambridge for three months, yielding a joint research paper posted on [arxiv.org](https://arxiv.org/abs/1912.10092). I completed my undergrad in Electrical Engineering at the Universidade Federal de Viçosa in Brazil, one of the best universities in the country. I have been awarded numerous scholarships worth over $100K CDN in total.
 
-Extensive programming experience with Python, C++, and Java, and some experience with Matlab and OCaml. Professional web development experience in JavaScript (Node.js, Angular, Meteor.js), PHP (CakePHP, Zend), Python (Django, Flask), and Java (Struts2), including mobile development with Cordova and NativeScript / React Native.
-
-Please, [see my resume](files/my_resume.pdf) for more details.
+Please, [see my resume](files/oliveira_resume.pdf) for more details.
