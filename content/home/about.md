@@ -37,4 +37,4 @@ weight = 1
 
 I am a Brazilian who, in December 2019, completed all degree requirements for my Ph.D. in Artificial Intelligence (AI) at the University of Regina in Canada. My graduate research focused on probabilistic graphical models such as Bayesian networks (BNs) and deep learning models, including sum-product networks (SPNs). I have been active in research since 2013. I have published 25 peer-reviewed papers, including one paper at AAAI-2019. The interest in this paper led to a formal invitation to visit the University of Cambridge for three months, yielding a joint research paper posted on [arxiv.org](https://arxiv.org/abs/1912.10092). I completed my undergrad in Electrical Engineering at the Universidade Federal de Viçosa in Brazil, one of the best universities in the country. I have been awarded numerous scholarships worth over $100K CDN in total.
 
-Please, [see my resume](files/oliveira_resume.pdf) for more details.
+Please, see [my resume](files/oliveira_resume.pdf) or [cover letter](files/oliveira_cover_letter.pdf) for more details.
